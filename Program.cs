@@ -16,7 +16,7 @@ namespace ConsoleApp1
 
             //Fisiere();
             //LinkList3El();
-            RevLinkList();
+            //RevLinkList();
             Console.ReadLine();
         }
 
